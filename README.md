@@ -26,11 +26,11 @@ This is a modular command-line application designed to assess fundamental Python
 1.Open a terminal
 2.Clone the GitHub repository using:
 ```bash
-git clone
+git clone https://github.com/parvathymm24/python-quiz-game.git
 ```
 3.Navigate to the project directory:
 ```bash
-cd
+cd python-quiz-game
 ```
 ## RUNNING THE PROJECT
 Open the terminal in the project directory and run:
