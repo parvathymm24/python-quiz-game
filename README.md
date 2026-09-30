@@ -23,9 +23,8 @@ This is a modular command-line application designed to assess fundamental Python
 2. Install VSCode or another Python-compatible IDE
 
 ### Clone the Repository
-1.Open a terminal
+1.Open a terminal.
 2.Clone the GitHub repository using:
-
 ```bash
 git clone https://github.com/parvathymm24/python-quiz-game.git
 ```
